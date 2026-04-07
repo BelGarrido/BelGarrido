@@ -1,56 +1,91 @@
-## Hi there 👋
-
-<!--
-**BelGarrido/BelGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Off-screen:
-When I’m not debugging, I’m usually making something with my hands. I love cooking, reading, and any kind of DIY/crafts. If there’s a process to follow and something to create, I’m in.
--->
-
-# Hi, It's Ana  and...
-
-> ~/background ⮕ Software in progress @ 42 Málaga Fundación Telefónica 💻**
-> _Building reliable logic with a user-centric mindset._
-
-## <kbd> ~/background</kbd>
-I spent years in Psychology and Design—basically obsessing over how people think and how things should look. Now, I’m at 42 Málaga, shifting that focus from canvases to the terminal.
-
-## <kbd>./learning_process</kbd>
-Moving to C was a total reset. In design, I’m used to a "flow" state, but low-level programming is different—it’s about cold logic and extreme planning. 42 has taught me that if you don't understand the underlying process, you don't have a program. I've learned to embrace the struggle of manual memory management and the discipline of building everything from scratch. It’s a slow, rewarding process of breaking things until they finally work.
-## <kbd>build --peer-friendly</kbd>
-I can’t help but think about the person on the other side of the screen. Whether it’s a UI or a backend project, I spend a lot of time making my mains and test scripts as clear as possible for my peers. If you have to audit my code, I want the logic to be transparent and the experience to be smooth.
-
----
-```markdown
-void *hobbies
-```
-![void *hobbies](https://img.shields.io/badge/void%20*hobbies-gray?style=for-the-badge&logo=c)
-When I’m not debugging or staring at a terminal, I’m usually building something physical. I treat a new **cooking recipe** or a **DIY craft project** exactly like an algorithm: 
-1. Research the requirements.
-2. Plan the steps.
-3. Execute and debug until it works.
-
----
-### 🛠️ The Tech Stack
-`C` `C++` `Shell` `Docker` `Git`  
-`Figma` `Adobe CC` `HTML/CSS`
-
----
-### ⚡ Quick Info
-- **📫 How to reach me:** [Email/LinkedIn Link]
-
----
+# Ana Garrido
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_GITHUB]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <strong>Psychology + Design background -> programming student at 42 Malaga</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anagarri">
+    <img src="https://img.shields.io/badge/GitHub-anagarri-2ec4b6?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  <a href="https://profile.intra.42.fr/users/anagarri">
+    <img src="https://img.shields.io/badge/42%20Intra-anagarri-5fd3bc?style=for-the-badge&logo=42&logoColor=ffffff" alt="42 Intra" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b4f6c" alt="LinkedIn" />
+  </a>
+</p>
+
+## Hello, I'm Ana
+
+I am currently studying at 42 Malaga Fundacion Telefonica, where I am building my software foundations through hands-on projects and peer reviews.
+What I value most is understanding the process behind the code, not just making things work.
+
+I came into tech from Psychology and Design, and I still bring that perspective with me:
+I care about structure, readability, and the person who will read the code after me.
+
+---
+
+## What I am focused on now
+
+- Python for automation, scripting, and API work
+- Cloud fundamentals: containers, deployments, and infrastructure basics
+- SQL and data modeling fundamentals
+- Writing cleaner, testable, and maintainable code
+
+---
+
+## How I learn
+
+42 changed the way I approach problems.
+I now spend more time planning, breaking tasks down, and validating assumptions before coding.
+
+I enjoy the part where things do not work at first, because that is where the real learning happens.
+For me, progress looks like this: understand, build, break, fix, and repeat.
+
+---
+
+## Peer-friendly by default
+
+I try to keep my code and test scripts easy to review.
+If someone audits my project, I want the logic to feel transparent and the flow to be smooth.
+
+---
+
+## 42 Progress
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/anagarri?1337Badge=off&UM6P=off" alt="42 progress for anagarri" />
+</p>
+
+<!-- ---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anagarri&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagarri&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+--- -->
+
+## Tech Stack
+
+![Programming](https://img.shields.io/badge/Programming-1f2937?style=for-the-badge)
+![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-0ea5e9?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/BelGarrido">GitHub</a> •
+  <a href="https://profile.intra.42.fr/anagarri/anagarri">42 Intra</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:anaigd93@gmail.com">Email</a>
 </p>
