@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anagarri">
+  <a href="https://github.com/BelGarrido">
     <img src="https://img.shields.io/badge/GitHub-BelGarrido-2ec4b6?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/">
