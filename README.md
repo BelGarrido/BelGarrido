@@ -8,11 +8,8 @@
   <a href="https://github.com/anagarri">
     <img src="https://img.shields.io/badge/GitHub-BelGarrido-2ec4b6?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
-  <a href="https://profile.intra.42.fr/users/anagarri">
-    <img src="https://img.shields.io/badge/42%20Intra-anagarri-5fd3bc?style=for-the-badge&logo=42&logoColor=ffffff" alt="42 Intra" />
-  </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Link-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b4f6c" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Garrido-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b4f6c" alt="LinkedIn" />
   </a>
 </p>
 
