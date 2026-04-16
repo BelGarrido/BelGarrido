@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/anagarri">
-    <img src="https://img.shields.io/badge/GitHub-anagarri-2ec4b6?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-BelGarrido-2ec4b6?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="https://profile.intra.42.fr/users/anagarri">
     <img src="https://img.shields.io/badge/42%20Intra-anagarri-5fd3bc?style=for-the-badge&logo=42&logoColor=ffffff" alt="42 Intra" />
